@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\C#\Employees Bosses and Trainees\Employees Bosses and Trainees\bin\Debug\Employees Bosses and Trainees.exe.config
+C:\Users\Mikey\Desktop\C#\Employees Bosses and Trainees\Employees Bosses and Trainees\bin\Debug\Employees Bosses and Trainees.exe
+C:\Users\Mikey\Desktop\C#\Employees Bosses and Trainees\Employees Bosses and Trainees\bin\Debug\Employees Bosses and Trainees.pdb
+C:\Users\Mikey\Desktop\C#\Employees Bosses and Trainees\Employees Bosses and Trainees\obj\Debug\Employees Bosses and Trainees.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\C#\Employees Bosses and Trainees\Employees Bosses and Trainees\obj\Debug\Employees Bosses and Trainees.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\C#\Employees Bosses and Trainees\Employees Bosses and Trainees\obj\Debug\Employees Bosses and Trainees.exe
+C:\Users\Mikey\Desktop\C#\Employees Bosses and Trainees\Employees Bosses and Trainees\obj\Debug\Employees Bosses and Trainees.pdb
