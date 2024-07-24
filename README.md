@@ -1,4 +1,5 @@
-# Inheritance-challenge  Create a main class with a Main Method, then a base class Employee with the properties Name, FirstName, Salary and the methods Work() and Pause().
+# Inheritance-challenge 
+Create a main class with a Main Method, then a base class Employee with the properties Name, FirstName, Salary and the methods Work() and Pause().
 
 Create a deriving class boss with the propertie CompanyCar and the method Lead(). Create another deriving class of employees - trainees with the properties WorkingHours and SchoolHourse and a method Learn().
 
